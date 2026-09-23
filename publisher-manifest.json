@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ee93a0660d3c13e1985c3c4b",
+  "owner": "djhagxej",
+  "repo": "page-4f7ed66e491e2c6d25c9f298",
+  "title": "西游记",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4f7ed66e491e2c6d25c9f298",
+      "a": "西游记",
+      "b": "稳定全球clash加速器",
+      "entity": "西游记",
+      "brand": "西游记",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "653163e93ebddd3dc4833c59c5ca36fb4b6d33fe25166133ff1cad2cef64d587",
+      "content": {
+        "primary_entity": "西游记",
+        "keyword1": "西游记",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，专注为跨区域访问提供稳定的连接体验。基础版每月 100GB 流量、支持 3 台设备，适合手机与平板轻度使用；旗舰版每月 300GB、支持 5 台设备，加入 IPLC 专线优化游戏与流媒体；团队版每月 1000GB、支持 20 台设备，并提供定制路由。按年付可享更低单价，选择前先确认常用设备数量与月流量需求。",
+          "AI_HERO_SUBTITLE": "稳定连接，按需选套餐",
+          "AI_HERO_INTRO": "西游记是一款面向跨区域访问的加速服务，提供基础版、旗舰版与团队版三档套餐。用户可按设备数量、月流量和是否需专线加速来挑选，支持在主流客户端导入订阅使用。",
+          "AI_VISUAL_TITLE": "西游记加速器套餐对比",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版含定制路由服务",
+          "AI_FEATURES_TITLE": "挑选要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和线路类型三方面判断适合的套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_1": "基础版 3 台，旗舰版 5 台，团队版 20 台，按家庭或团队规模匹配。",
+          "AI_FEATURE_TITLE_2": "按流量额度选",
+          "AI_FEATURE_TEXT_2": "100GB 适合日常浏览，300GB 兼顾视频，1000GB 满足团队多端并发。",
+          "AI_FEATURE_TITLE_3": "按线路类型选",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，游戏与流媒体延迟更低，团队版提供 VIP 高带宽节点。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统可选用不同客户端导入订阅，按设备类型选择常见工具即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路类型上逐级提升，可结合使用人数与预算选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先选套餐，再核对适配要求，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认系统版本与网络环境符合客户端要求，再继续配置订阅。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参考所选客户端的文档导入订阅信息，完成后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_CLOSING_TEXT": "按实际设备数量与流量需求挑选套餐，再参照客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "西游记的套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以。从基础版升级到旗舰版或团队版时，按剩余周期折算差价，具体操作以购买后的账户页面为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版3台，旗舰版5台，团队版20台。多设备同时在线时建议留意各设备流量叠加消耗。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付相当于以更低月均价格锁定长期使用，例如旗舰版按年¥350，比按月支付更节省。",
+          "AI_FAQ_QUESTION_4": "手机和电脑都能使用同一订阅吗？",
+          "AI_FAQ_ANSWER_4": "可以。在手机、平板或电脑上分别安装对应客户端，导入同一订阅信息即可，但需注意同时在线设备数限制。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "适合20台以内设备的小团队或工作室，1000GB流量与高带宽节点可满足多人协作与实时应用需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--wgetcloud-yi5p512l.com",
+    "host": "xn--wgetcloud-yi5p512l.com"
+  },
+  "file_hashes": {
+    "index.html": "13f42a6c0908dff8ee0327dbfafb31feb6f8bea69b4620338b7de68901b9433b",
+    "sitemap.xml": "389a853cba8d5834490dfd0321d9a12d04320268aed0cc1e25fc505f0da825c6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f0bbeba9b6ee7ebd52f0fe7109c8fc23297d1e9047db74a7d05f6c40495caa23",
+    "robots.txt": "416c17500a986448b4b275669539f22026faffb2ec241aabcc92774d559f511a",
+    "dcc350977af013935b6744cf31b7d5e1.txt": "d6d1510e76f3d1bd74f2f7aedfa7bcc39d6f87763fc58c94e5aa19f8689fd06b"
+  },
+  "revision": "3ae19381d314e6600258dd61bf00d99883c95d452e6ba24cbf9aa7d96a4814b4"
+}
